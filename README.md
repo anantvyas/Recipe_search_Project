@@ -6,7 +6,7 @@ Recipe Finder is a web application that allows users to search for recipes based
 The app fetches data from the Edamam Recipe API and displays the results with images, ingredients, and cooking instructions.
 
 you can watch its demo here
-
+https://anantvyas.github.io/Recipe_search_Project/
 
 **Features**
 
