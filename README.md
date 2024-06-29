@@ -31,6 +31,7 @@ This project uses the Edamam Recipe API to fetch recipe data. To use the API, yo
 1. Sign up on the Edamam Developer Portal and create an application to get your App ID and App Key.
 2. Replace YOUR_APP_ID and YOUR_APP_KEY in the script.js file with your actual App ID and App Key.
 
-   const appId = 'YOUR_APP_ID';
-   const appKey = 'YOUR_APP_KEY';
+   const appId = '69738007';
+   
+   const appKey = '36761f6b5dd17fd30afaadeb60517fa8';
 
